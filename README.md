@@ -3,6 +3,7 @@
 用keras实现ocr定位、识别，后端tensorflow.
 
 * 环境 ubuntu
+  - 建议使用python3，其余环境可以根据缺少包的提示自行安装
 
 # 识别
 * 数据集链接: https://pan.baidu.com/s/1jJWfDmm 密码: vh8p (中英数300W+,语料不均衡)
