@@ -2,7 +2,7 @@
 
 用keras实现ocr定位、识别，后端tensorflow.
 
-* 环境 win10 titanx
+* 环境 ubuntu
 
 # 识别
 * 数据集链接: https://pan.baidu.com/s/1jJWfDmm 密码: vh8p (中英数300W+,语料不均衡)
@@ -28,6 +28,6 @@
 ![demo](https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/demo1.jpg)
 
 # 参考
-[1]https://github.com/eragonruan/text-detection-ctpn
+[1]https://github.com/xiaomaxiao/keras_ocr
 
 [2]https://github.com/senlinuc/caffe_ocr
